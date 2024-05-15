@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+
+body{
+    background-color: bisque;
+    font-family: "Jacquard 12", system-ui;
+}
+section{
+    width: 1200px;
+    margin: 0 auto;
+}
+header .logotipo{
+    float: right;
+  
+}
+header .suporte{
+  float: right;
+}
+.logotipo img{
+    width: 200px;
+
+}
